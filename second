@@ -1,0 +1,18 @@
+name: UK-First Results
+description: Boost UK-based sources and demote social and low-signal domains.
+version: 1
+
+# Boost trusted UK domains
+promote:site:.co.uk
+promote:bbc.co.uk
+promote:theguardian.com
+promote:gov.uk
+
+# Demote social media and low-quality platforms
+-demote:reddit.com
+-demote:quora.com
+-demote:pinterest.com
+-demote:facebook.com
+-demote:x.com
+-demote:twitter.com
+-demote:medium.com
