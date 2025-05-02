@@ -1,0 +1,15 @@
+# Boost UK domains
+promote:site:.co.uk
+promote:bbc.co.uk
+promote:theguardian.com
+promote:gov.uk
+
+# Demote common low-signal content
+-demote:reddit.com
+-demote:quora.com
+-demote:pinterest.com
+-demote:facebook.com
+-demote:x.com
+-demote:twitter.com
+-demote:medium.com
+Add UK-focused Goggle
