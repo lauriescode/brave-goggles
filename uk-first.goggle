@@ -1,7 +1,7 @@
-name: UK-First Results
-description: Boost UK sources and demote social media and low-value domains.
-public: true
-author: LaurieB
+Name: UK-First Results
+Description: Boost UK sources and demote social media and low-value domains.
+Public: true
+Author: LaurieB
 
 # Boost UK domains
 promote:bbc.co.uk
